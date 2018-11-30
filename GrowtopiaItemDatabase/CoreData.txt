@@ -6943,14 +6943,14 @@
 6935|Anomalizing Elegant Trowel Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6936|Anomalizing Elegant Cultivator|999|NoSeed, Dropless|Clothing|DD3357|CD8200|0|3600|Hand
 6937|Anomalizing Elegant Cultivator Seed|999|NoSeed|Seed|000000|000000|20|0|None
-6938|null_item6938|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|03EC4B|C29D56|0|31|None
-6939|null_item6938 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6940|null_item6940|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|97FE09|B3955A|0|31|None
-6941|null_item6940 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6942|null_item6942|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FA061C|B0613C|0|31|None
-6943|null_item6942 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-6944|null_item6944|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E32772|E202C2|0|31|None
-6945|null_item6944 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6938|Anomalizing Delicate Scanner|999|NoSeed, Dropless|Clothing|275485|E99282|0|3600|Hand
+6939|Anomalizing Delicate Scanner Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6940|Anomalizing Pristine Scanner|999|NoSeed, Dropless|Clothing|275485|E99282|0|3600|Hand
+6941|Anomalizing Pristine Scanner Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6942|Anomalizing Exquisite Scanner|999|NoSeed, Dropless|Clothing|275485|E99282|0|3600|Hand
+6943|Anomalizing Exquisite Scanner Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+6944|Anomalizing Elegant Scanner|999|NoSeed, Dropless|Clothing|275485|E99282|0|3600|Hand
+6945|Anomalizing Elegant Scanner Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 6946|Gaia's Beacon|999|Wrenchable, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|ItemSucker|29983D|49423E|42|3600|None
 6947|Gaia's Beacon Seed|999|NoSeed|Seed|000000|000000|20|0|None
 6948|Unstable Tesseract|999|Wrenchable, NoSeed, Permanent, Dropless, WorldLock, AutoPickup|ItemSucker|CBA342|43A2EE|42|3600|None
@@ -7103,44 +7103,44 @@
 7095|Ezio's Boots Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7096|Hay Cart|999|MultiFacing, NoSeed, Permanent, Dropless, AutoPickup, Foreground|Foreground_Block|B38854|DFC692|8|3600|None
 7097|Hay Cart Seed|999|NoSeed|Seed|000000|000000|20|0|None
-7098|null_item7098|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EA0116|6BBC9B|0|31|None
-7099|null_item7098 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7100|null_item7100|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|F45A24|E82E0E|0|31|None
-7101|null_item7100 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7102|null_item7102|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FA0043|FA2E17|0|31|None
-7103|null_item7102 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7104|null_item7104|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|A6927D|13DB47|0|31|None
-7105|null_item7104 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7098|Apocalypse Scythe|999|NoSeed, Dropless|Clothing|707070|36F092|0|3600|Hand
+7099|Apocalypse Scythe Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7100|Famine's Steed|999|NoSeed, Dropless|Clothing|707070|36F092|0|3600|Feet
+7101|Famine's Steed Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7102|Conquest's Helm|999|NoSeed, Dropless, Untradable|Clothing|707070|36F092|0|3600|Hat
+7103|Conquest's Helm Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7104|Dark Aurora Wings|999|NoSeed, Dropless|Clothing|707070|540909|0|3600|Back
+7105|Dark Aurora Wings Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7106|Cat Eyes|999|NoSeed, Dropless|Clothing|262626|A01519|0|3600|Face
 7107|Cat Eyes Seed|999|NoSeed|Seed|000000|000000|20|0|None
-7108|null_item7108|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E93825|D6551E|0|31|None
-7109|null_item7108 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7110|null_item7110|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|BC5812|65B559|0|31|None
-7111|null_item7110 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7112|null_item7112|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|EC4C21|B60ECF|0|31|None
-7113|null_item7112 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7114|null_item7114|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B6E022|4EB87A|0|31|None
-7115|null_item7114 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7116|null_item7116|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|2DB521|DC761B|0|31|None
-7117|null_item7116 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7118|null_item7118|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|8AC755|89CC4A|0|31|None
-7119|null_item7118 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7120|null_item7120|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DA0C54|65DF59|0|31|None
-7121|null_item7120 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7122|null_item7122|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|8A7724|E9731A|0|31|None
-7123|null_item7122 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7124|null_item7124|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|22D612|0AF55D|0|31|None
-7125|null_item7124 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7126|null_item7126|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FE491B|75B371|0|31|None
-7127|null_item7126 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7128|null_item7128|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|FE5723|0ABFA0|0|31|None
-7129|null_item7128 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7130|null_item7130|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|E86713|E43A29|0|31|None
-7131|null_item7130 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7132|null_item7132|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|D4E100|34B089|0|31|None
-7133|null_item7132 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7134|null_item7134|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B7330F|F23245|0|31|None
-7135|null_item7134 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7108|Knife Head|55|NoSeed, Foreground|Clothing|959595|C31F23|0|168025|Hair
+7109|Knife Head Seed|55|NoSeed|Seed|000000|000000|20|0|None
+7110|Evil Grin|70|NoSeed, Dropless|Clothing|ACACAC|FFFFFF|0|345100|Face
+7111|Evil Grin Seed|70|NoSeed|Seed|000000|000000|20|0|None
+7112|Vampiress Dress|90|NoSeed, Dropless|Clothing|555555|900F12|0|731700|Shirt
+7113|Vampiress Dress Seed|90|NoSeed|Seed|000000|000000|20|0|None
+7114|Nightmare Vampiress Dress|90|NoSeed, Dropless|Clothing|252525|993997|0|731700|Shirt
+7115|Nightmare Vampiress Dress Seed|90|NoSeed|Seed|000000|000000|20|0|None
+7116|Vapor Vent|30|NoSeed, Dropless, Foreground|Foreground_Block|111111|665B4D|8|27900|None
+7117|Vapor Vent Seed|30|NoSeed|Seed|000000|000000|20|0|None
+7118|Riding Skeletal Shark|999|NoSeed, Dropless|Clothing|E9E9E9|797979|0|3600|Feet
+7119|Riding Skeletal Shark Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7120|Angler Mask|999|NoSeed, Dropless|Clothing|4A2A28|F4D212|0|3600|Hat
+7121|Angler Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7122|Demon Plague Doctor Mask|999|NoSeed, Dropless|Clothing|534741|2C2C2C|0|3600|Face
+7123|Demon Plague Doctor Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7124|Vampire Hunter Hat|107|NoSeed|Clothing|232323|9F9A98|0|1228253|Hat
+7125|Vampire Hunter Hat Seed|107|NoSeed|Seed|000000|000000|20|0|None
+7126|Tragicomic Mask|999|NoSeed, Dropless|Clothing|E1E1FB|B7B7B7|0|3600|Hat
+7127|Tragicomic Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7128|Creepy Baby Head Mask|73|NoSeed, Dropless|Clothing|EFC27C|0072BC|0|391207|Hair
+7129|Creepy Baby Head Mask Seed|73|NoSeed|Seed|000000|000000|20|0|None
+7130|Growmoji Ghost|100|NoSeed, Dropless|Consummable|2076A0|88EADB|5|1003000|None
+7131|Growmoji Ghost Seed|100|NoSeed|Seed|000000|000000|20|0|None
+7132|Demon Angler Leash|999|NoSeed, Dropless|Clothing|4A2A28|F4D212|0|100|Hand
+7133|Demon Angler Leash Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7134|Skeletal Shark Leash|999|NoSeed, Dropless|Clothing|E9E9E9|797979|0|120|Hand
+7135|Skeletal Shark Leash Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7136|Ethereal Rainbow Dragon|999|NoSeed, Dropless|Clothing|01AF99|C54901|0|3600|Chest
 7137|Ethereal Rainbow Dragon Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7138|Heroic Tights of Prevention|999|NoSeed, Dropless|Clothing|01AF99|C54901|0|3600|Pants
@@ -7201,3 +7201,295 @@
 7193|Shadow Spirit of the Underworld Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7194|Hacker's Dialog|999|MultiFacing, Wrenchable, Mod|Mailbox|E2E2E2|B78249|4|3600|None
 7195|Hacker's Dialog Seed|999|Mod|Seed|000000|000000|20|0|None
+7196|Monarch Butterfly Wings |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+7197|Monarch Butterfly Wings Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7198|Winter Freezer Hood |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hair
+7199|Winter Freezer Hood Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7200|Ultra Winter Freezer Hood |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hair
+7201|Ultra Winter Freezer Hood Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7202|Storm Cloud |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7203|Storm Cloud Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7204|Supplier's Cape |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+7205|Supplier's Cape Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7206|The Great Chameleon: Master of Disguise |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hands
+7207|The Great Chameleon: Master of Disguise Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7208|Winter Freezer Robe |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7209|Winter Freezer Robe Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7210|Ultra Winter Freezer Robe |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7211|Ultra Winter Freezer Robe Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7212|Lunar Crater |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7213|Lunar Crater Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7214|Crafter's Cape |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+7215|Crafter's Cape Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7216|Mad Hatter |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7217|Mad Hatter Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7218|Sheet Music: Lyre Note |14|WorldLock|Sheet_Music|FFFFFF|000000|3|3164|None
+7219|Sheet Music: Lyre Note Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7220|Sheet Music: Sharp Lyre |14|WorldLock|Sheet_Music|FFFFFF|000000|3|3164|None
+7221|Sheet Music: Sharp Lyre Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7222|Sheet Music: Flat Lyre |14|WorldLock|Sheet_Music|FFFFFF|000000|3|3164|None
+7223|Sheet Music: Flat Lyre Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7224|Oak Tree |1|0|Background_Block|1C150C|4B3717|3|31|None
+7225|Oak Tree Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7226|Winter Foliage |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7227|Winter Foliage Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7228|Galleon's Mast |1|0|Background_Block|1C150C|4B3717|3|31|None
+7229|Galleon's Mast Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7230|Winter Hedge |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7231|Winter Hedge Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7232|Growmoji Halo |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7233|Growmoji Halo Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7234|Growmoji Nuke |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7235|Growmoji Nuke Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7236|Sunset Clouds |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7237|Sunset Clouds Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7238|Sunset Clouds Background |1|0|Background_Block|1C150C|4B3717|3|31|None
+7239|Sunset Clouds Background Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7240|Galleon's Ratlines |4|0|Platform|83531F|F6C289|3|184|None
+7241|Galleon's Ratlines Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7242|Galleon Hull |1|0|Background_Block|1C150C|4B3717|3|31|None
+7243|Galleon Hull Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7244|Galleon's Crow's Nest |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7245|Galleon's Crow's Nest Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7246|Lyre |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7247|Lyre Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7248|Weapons Rack |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7249|Weapons Rack Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7250|Jack's Shoes |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7251|Jack's Shoes Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7252|Jack's Jeans |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Pants
+7253|Jack's Jeans Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7254|Jack's Vest |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7255|Jack's Vest Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7256|Jack's Hat |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7257|Jack's Hat Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7258|Future Perfect Chip |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hair
+7259|Future Perfect Chip Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7260|Swirling Rainbow Eyes |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Face
+7261|Swirling Rainbow Eyes Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7262|Knight's Chainmail - Sun |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7263|Knight's Chainmail - Sun Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7264|Knight's Chainmail - Lion |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7265|Knight's Chainmail - Lion Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7266|Knight's Chainmail - Crown |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7267|Knight's Chainmail - Crown Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7268|Tapestry |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7269|Tapestry Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7270|Peasant Fence |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7271|Peasant Fence Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7272|Nobleman's House |1|0|Background_Block|1C150C|4B3717|3|31|None
+7273|Nobleman's House Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7274|Rotten Woodland Tree |4|0|Platform|83531F|F6C289|3|184|None
+7275|Rotten Woodland Tree Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7276|Knight's Great Helm - Golden |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7277|Knight's Great Helm - Golden Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7278|Knight's Helm - Crusader |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7279|Knight's Helm - Crusader Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7280|Knight's Helm - Antlers |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7281|Knight's Helm - Antlers Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7282|Weather Vane |39|MultiFacing, Wrenchable|Toggleable_Foreground|6F6F6F|3C6590|10|60489|None
+7283|Weather Vane Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7284|Stables |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7285|Stables Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7286|Murder Hole - Hot Liquid Tar |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7287|Murder Hole - Hot Liquid Tar Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7288|Cheval de Frise (Siege Barrier) |35|0|Spike|65FF00|FFFFF4|4|43925|None
+7289|Cheval de Frise (Siege Barrier) Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7290|Royal Carpet |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7291|Royal Carpet Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7292|Wooden Guard Tower |4|0|Platform|83531F|F6C289|3|184|None
+7293|Wooden Guard Tower Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7294|The 'Other' Royal Throne |23|MultiFacing|SFX_Foreground|FFCA15|F5A307|4|12857|None
+7295|The 'Other' Royal Throne Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7296|Scavenger Wheels |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7297|Scavenger Wheels Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7298|Scavenger Lord's Wheels |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7299|Scavenger Lord's Wheels Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7300|2-Face |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Face
+7301|2-Face Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7302|Golden Midas Masterpants |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Pants
+7303|Golden Midas Masterpants Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7304|Tiger Spirit |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+7305|Tiger Spirit Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7306|Anomalizing Delicate Rolling Pin |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7307|Anomalizing Delicate Rolling Pin Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7308|Anomalizing Pristine Rolling Pin |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7309|Anomalizing Pristine Rolling Pin Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7310|Anomalizing Exquisite Rolling Pin |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7311|Anomalizing Exquisite Rolling Pin Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7312|Anomalizing Elegant Rolling Pin |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7313|Anomalizing Elegant Rolling Pin Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7314|Mad Hat 1 |999|NoSeed, Dropless, Untradable|Component|B5DCA3|467E30|1|3600|None
+7315|Mad Hat 1 Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7316|Mad Hat 2 |999|NoSeed, Dropless, Untradable|Component|B5DCA3|467E30|1|3600|None
+7317|Mad Hat 2 Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7318|Mad Hat 3 |999|NoSeed, Dropless, Untradable|Component|B5DCA3|467E30|1|3600|None
+7319|Mad Hat 3 Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7320|Nobleman's House Roof |4|0|Platform|83531F|F6C289|3|184|None
+7321|Nobleman's House Roof Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7322|Nobleman's House Door |2|Wrenchable|Door|9A6B38|FFD11D|5|68|None
+7323|Nobleman's House Door Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7324|Stable Roof |4|0|Platform|83531F|F6C289|3|184|None
+7325|Stable Roof Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7326|Stable Background |1|0|Background_Block|1C150C|4B3717|3|31|None
+7327|Stable Background Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7328|Winter Token |999|NoSeed, Dropless, Untradable|Component|B5DCA3|467E30|1|3600|None
+7329|Winter Token Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7330|Winter Event Player Medal: Bronze |999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|CB4A4A|C9731C|10|3600|None
+7331|Winter Event Player Medal: Bronze Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7332|Winter Event Player Medal: Silver |999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|CB4A4A|C9731C|10|3600|None
+7333|Winter Event Player Medal: Silver Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7334|Winter Event Player Medal: Gold |999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|CB4A4A|C9731C|10|3600|None
+7335|Winter Event Player Medal: Gold Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7336|Winter Event Guild Medal: Bronze |999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|CB4A4A|C9731C|10|3600|None
+7337|Winter Event Guild Medal: Bronze Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7338|Winter Event Guild Medal: Silver |999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|CB4A4A|C9731C|10|3600|None
+7339|Winter Event Guild Medal: Silver Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7340|Winter Event Guild Medal: Gold |999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|CB4A4A|C9731C|10|3600|None
+7341|Winter Event Guild Medal: Gold Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7342|Thanksgiving Bell |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7343|Thanksgiving Bell Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7344|Dead Thanksgiving Turkey |999|NoSeed, Dropless, Untradable|Component|B5DCA3|467E30|1|3600|None
+7345|Dead Thanksgiving Turkey Seed|999|NoSeed|Seed|000000|000000|20|0|None 
+7346|Roasted Turkey |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7347|Roasted Turkey Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7348|Riding Turkey |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7349|Riding Turkey Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7350|Turkey Wings |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7351|Turkey Wings Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7352|Pilgrim's Hat |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7353|Pilgrim's Hat Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7354|Pilgrim's Coat |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7355|Pilgrim's Coat Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7356|Pilgrim's Shoes |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7357|Pilgrim's Shoes Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7358|Pilgrim's Bonnet |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7359|Pilgrim's Bonnet Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7360|Pilgrim's Dress |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7361|Pilgrim's Dress Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7362|Colonization Wagon Base |4|0|Platform|83531F|F6C289|3|184|None
+7363|Colonization Wagon Base Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7364|Colonization Wagon Canopy |4|0|Platform|83531F|F6C289|3|184|None
+7365|Colonization Wagon Canopy Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7366|Wagon Wheel |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7367|Wagon Wheel Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7368|Thanksgiving Turkey |999|NoSeed, Dropless, Public|Event_Mystery_Block|EF934A|B749E9|30|3600|None
+7369|Thanksgiving Turkey Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7370|Growmoji Turkey |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7371|Growmoji Turkey Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7372|Monochromatic Bedrock |1|NoSeed, Dropless, Mod|Bedrock|89D959|E93B5A|4|31|None
+7373|Monochromatic Bedrock Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7374|Monochromatic Dirt |1|0|Foreground_Block|603913|A67C52|3|31|None
+7375|Monochromatic Dirt Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7376|Monochromatic Lava |1|0|Pain_Block|FF2811|FFBB2A|4|31|None
+7377|Monochromatic Lava Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7378|Monochromatic Cave Background |1|0|Background_Block|1C150C|4B3717|3|31|None
+7379|Monochromatic Cave Background Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7380|Monochromatic Blast |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7381|Monochromatic Blast Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7382|Onyx Block |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7383|Onyx Block Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7384|null_item7384 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7385|null_item7384 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7386|null_item7386 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7387|null_item7386 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7388|null_item7388 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7389|null_item7388 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7390|null_item7390 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7391|null_item7390 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7392|null_item7392 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7393|null_item7392 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7394|null_item7394 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7395|null_item7394 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7396|null_item7396 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7397|null_item7396 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7398|null_item7398 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7399|null_item7398 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7400|null_item7400 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7401|null_item7400 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7402|null_item7402 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7403|null_item7402 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7404|null_item7404 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7405|null_item7404 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7406|null_item7406 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7407|null_item7406 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7408|null_item7408 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7409|null_item7408 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7410|null_item7410 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7411|null_item7410 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7412|null_item7412 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7413|null_item7412 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7414|null_item7414 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7415|null_item7414 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7416|null_item7416 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7417|null_item7416 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7418|null_item7418 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7419|null_item7418 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7420|null_item7420 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7421|null_item7420 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7422|null_item7422 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7423|null_item7422 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7424|null_item7424 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7425|null_item7424 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7426|null_item7426 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7427|null_item7426 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7428|null_item7428 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7429|null_item7428 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7430|null_item7430 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7431|null_item7430 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7432|null_item7432 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7433|null_item7432 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7434|null_item7434 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7435|null_item7434 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7436|null_item7436 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7437|null_item7436 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7438|null_item7438 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7439|null_item7438 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7440|null_item7440 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7441|null_item7440 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7442|null_item7442 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7443|null_item7442 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7444|null_item7444 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7445|null_item7444 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7446|null_item7446 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7447|null_item7446 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7448|null_item7448 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7449|null_item7448 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7450|null_item7450 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7451|null_item7450 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7452|null_item7452 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7453|null_item7452 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7454|null_item7454 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7455|null_item7454 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7456|null_item7456 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7457|null_item7456 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7458|null_item7458 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7459|null_item7458 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7460|null_item7460 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7461|null_item7460 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7462|null_item7462 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7463|null_item7462 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7464|null_item7464 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7465|null_item7464 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7466|null_item7466 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7467|null_item7466 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7468|null_item7468 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7469|null_item7468 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7470|null_item7470 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7471|null_item7470 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7472|null_item7472 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7473|null_item7472 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7474|null_item7474 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7475|null_item7474 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7476|null_item7476 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7477|null_item7476 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7478|null_item7478 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7479|null_item7478 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7480|null_item7480 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7481|null_item7480 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7482|null_item7482 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7483|null_item7482 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7484|Winter Chest |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7485|Winter Chest Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7486|Galleon's Mast - Crossbeam |1|0|Foreground_Block|603913|A67C52|3|31|None
+7487|Galleon's Mast - Crossbeam Seed |999|NoSeed|Seed|000000|000000|20|0|None
