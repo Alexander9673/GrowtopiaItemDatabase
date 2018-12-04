@@ -7211,7 +7211,7 @@
 7203|Storm Cloud Seed |999|NoSeed|Seed|000000|000000|20|0|None
 7204|Supplier's Cape |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
 7205|Supplier's Cape Seed |999|NoSeed|Seed|000000|000000|20|0|None
-7206|The Great Chameleon: Master of Disguise |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hands
+7206|The Great Chameleon: Master of Disguise |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
 7207|The Great Chameleon: Master of Disguise Seed |999|NoSeed|Seed|000000|000000|20|0|None
 7208|Winter Freezer Robe |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
 7209|Winter Freezer Robe Seed |999|NoSeed|Seed|000000|000000|20|0|None
@@ -7389,20 +7389,20 @@
 7381|Monochromatic Blast Seed |999|NoSeed|Seed|000000|000000|20|0|None
 7382|Onyx Block |1|0|Foreground_Block|808080|C8C8C8|10|31|None
 7383|Onyx Block Seed |999|NoSeed|Seed|000000|000000|20|0|None
-7384|null_item7384 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7385|null_item7384 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7386|null_item7386 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7387|null_item7386 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7388|null_item7388 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7389|null_item7388 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7390|null_item7390 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7391|null_item7390 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7392|null_item7392 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7393|null_item7392 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7394|null_item7394 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7395|null_item7394 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7396|null_item7396 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7397|null_item7396 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7384|Go-Go-Growformer! |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7385|Go-Go-Growformer! Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7386|Ultra Winter Freezer Teddy Suit |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7387|Ultra Winter Freezer Teddy Suit Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7388|Winter Freezer Teddy Mask |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Face
+7389|Winter Freezer Teddy Mask Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7390|Crown of Duplication |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hair
+7391|Crown of Duplication Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7392|Mage's Orb |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+7393|Mage's Orb Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7394|Cracked Stone Slab |1|0|Foreground_Block|808080|C8C8C8|10|31|None
+7395|Cracked Stone Slab Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7396|Snowflake Eyes |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Face
+7397|Snowflake Eyes Seed |999|NoSeed|Seed|000000|000000|20|0|None
 7398|null_item7398 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
 7399|null_item7398 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 7400|null_item7400 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
@@ -7423,14 +7423,14 @@
 7415|null_item7414 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 7416|null_item7416 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
 7417|null_item7416 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7418|null_item7418 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7419|null_item7418 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7420|null_item7420 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7421|null_item7420 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7422|null_item7422 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7423|null_item7422 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7424|null_item7424 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7425|null_item7424 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7418|Snowfrost's Top Hat |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7419|Snowfrost's Top Hat Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7420|Snowfrost's Mask |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Face
+7421|Snowfrost's Mask Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7422|Snowfrost's Suit |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7423|Snowfrost's Suit Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7424|Snowfrost's Candy Cane Blade |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7425|Snowfrost's Candy Cane Blade Seed |999|NoSeed|Seed|000000|000000|20|0|None
 7426|null_item7426 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
 7427|null_item7426 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 7428|null_item7428 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
@@ -7479,17 +7479,33 @@
 7471|null_item7470 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 7472|null_item7472 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
 7473|null_item7472 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7474|null_item7474 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7475|null_item7474 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7476|null_item7476 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7477|null_item7476 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7478|null_item7478 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7479|null_item7478 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7480|null_item7480 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
-7481|null_item7480 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7474|Growmoji Gift |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7475|Growmoji Gift Seed |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7476|Winterfest Calendar - 2018 |999|NoSeed, Dropless, WorldLock|Provider|D5D0B3|96755A|42|3600|None
+7477|Winterfest Calendar - 2018 Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7478|Used Winterfest Calendar - 2018 |999|NoSeed, Permanent, Dropless, WorldLock, AutoPickup|Foreground_Block|654C35|B79245|6|3600|None
+7479|Used Winterfest Calendar - 2018 Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7480|Growformer PowerKey |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7481|Growformer PowerKey Seed |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
 7482|null_item7482 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
 7483|null_item7482 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 7484|Winter Chest |999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
 7485|Winter Chest Seed |999|NoSeed|Seed|000000|000000|20|0|None
 7486|Galleon's Mast - Crossbeam |1|0|Foreground_Block|603913|A67C52|3|31|None
 7487|Galleon's Mast - Crossbeam Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7488|null_item7488 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7489|null_item7488 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7490|Nutcracker Hat |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7491|Nutcracker Hat Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7492|null_item7492 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7493|null_item7492 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7494|null_item7494 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7495|null_item7494 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7496|Nutcracker Pants |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Pants
+7497|Nutcracker Pants Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7498|Nutcracker Boots |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7499|Nutcracker Boots Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7500|null_item7492 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7501|null_item7492 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7502|null_item7494 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|47D072|BA499C|0|31|None
+7503|null_item7494 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
