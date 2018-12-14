@@ -1,3 +1,4 @@
 # Growtopia Coredata for Private Server
-Updated by notdark
-Only updated Coredata
+ Coredata Updated by notdark
+ 
+No winter fest item yet
