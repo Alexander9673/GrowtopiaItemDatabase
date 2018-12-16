@@ -1,7 +1,7 @@
 # Growtopia Coredata for Private Server
  Coredata Updated by notdark
   
-No added winter fest item yet
+Winter fest item added
 
 
 descriptions no updated yet
