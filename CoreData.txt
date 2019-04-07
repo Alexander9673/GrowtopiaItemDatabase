@@ -7571,8 +7571,8 @@
 7563|null_item7562 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
 7564|null_item7564 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DC309D|00E84C|0|31|None
 7565|null_item7564 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
-7566|null_item7566 |1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DC309D|00E84C|0|31|None
-7567|null_item7566 Seed |1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7566|Foppy 4.0|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7567|Foppy 4.0 Seed|999|NoSeed|Seed|000000|000000|20|0|None
 7568|Hovernator Drone - White |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
 7569|Hovernator Drone - White Seed |999|NoSeed|Seed|000000|000000|20|0|None
 7570|Hovernator Drone - Black |999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
@@ -7787,3 +7787,505 @@
 7779|Hatching Void Egg Seed |999|NoSeed|Seed|000000|000000|20|0|None
 7780|Dragon Soul |100|NoSeed, Dropless|Component|FFFF00|00FFFF|4|1003000|None
 7781|Dragon Soul Seed |999|NoSeed|Seed|000000|000000|20|0|None
+7782|null_item7782|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DC309D|00E84C|0|31|None
+7783|null_item7782 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7784|null_item7784|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|DC309D|00E84C|0|31|None
+7785|null_item7784 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7786|Mentorship Certificate|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7787|Mentorship Certificate Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7788|Apprentice Ticket - Level 1|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7789|Apprentice Ticket - Level 1 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7790|Apprentice Ticket - Level 5|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7791|Apprentice Ticket - Level 5 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7792|Apprentice Ticket - Level 10|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7793|Apprentice Ticket - Level 10 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7794|Apprentice Ticket - Level 20|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7795|Apprentice Ticket - Level 20 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7796|Apprentice Ticket - Level 30|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7797|Apprentice Ticket - Level 30 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7798|Mentor Ticket - Level 1|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7799|Mentor Ticket - Level 1 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7800|Mentor Ticket - Level 5|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7801|Mentor Ticket - Level 5 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7802|Mentor Ticket - Level 10|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7803|Mentor Ticket - Level 10 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7804|Mentor Ticket - Level 20|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7805|Mentor Ticket - Level 20 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7806|Mentor Ticket - Level 30|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7807|Mentor Ticket - Level 30 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7808|Heartcastle Stone|1|0|Foreground_Block|603913|A67C52|3|31|None
+7809|Heartcastle Stone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7810|Heartcastle Stone Background|1|0|Background_Block|1C150C|4B3717|3|31|None
+7811|Heartcastle Stone Background Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7812|Heartcastle Gate|2|Wrenchable|Door|9A6B38|FFD11D|5|68|None
+7813|Heartcastle Gate Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7814|Heartcastle Turret|1|0|Foreground_Block|603913|A67C52|3|31|None
+7815|Heartcastle Turret Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7816|Heartcastle Column|1|0|Foreground_Block|603913|A67C52|3|31|None
+7817|Heartcastle Column Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7818|Heartking's Crown|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7819|Heartking's Crown Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7820|Heartking's Robes|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7821|Heartking's Robes Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7822|Heartqueen's Crown|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7823|Heartqueen's Crown Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7824|Heartqueen's Robes|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7825|Heartqueen's Robes Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7826|Heartstaff|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7827|Heartstaff Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7828|Golden Heartstaff|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7829|Golden Heartstaff Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7830|Heartsword|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7831|Heartsword Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7832|Golden Heartsword|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7833|Golden Heartsword Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7834|Stained Glass Heartwings|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+7835|Stained Glass Heartwings Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7836|Morty the Gray Elephant|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Face
+7837|Morty the Gray Elephant Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7838|Morty the Orange Elephant|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Face
+7839|Morty the Orange Elephant Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7840|Morty the Pink Elephant|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Face
+7841|Morty the Pink Elephant Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7842|Morty the Diamond Elephant|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Face
+7843|Morty the Diamond Elephant Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7844|Spring Token|999|NoSeed, Dropless, Untradable|Component|B5DCA3|467E30|1|3600|None
+7845|Spring Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7846|Manor House Sandstone|1|0|Foreground_Block|603913|A67C52|3|31|None
+7847|Manor House Sandstone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7848|Manor House Sandstone Background|1|0|Background_Block|1C150C|4B3717|3|31|None
+7849|Manor House Sandstone Background Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7850|Manor House Door|2|Wrenchable|Door|9A6B38|FFD11D|5|68|None
+7851|Manor House Door Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7852|Manor House Sandstone Steps|4|0|Platform|83531F|F6C289|3|184|None
+7853|Manor House Sandstone Steps Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7854|Manor House Red Striped Wallpaper|1|0|Background_Block|1C150C|4B3717|3|31|None
+7855|Manor House Red Striped Wallpaper Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7856|Gilt Inlaid Ceiling|1|0|Background_Block|1C150C|4B3717|3|31|None
+7857|Gilt Inlaid Ceiling Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7858|Baroque Iron Fence|1|0|Foreground_Block|603913|A67C52|3|31|None
+7859|Baroque Iron Fence Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7860|Baroque Iron Gate|15|MultiFacing, Wrenchable|Gateway|AE763A|F8C78E|5|3825|None
+7861|Baroque Iron Gate Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7862|Candle Wall Sconce|46|Wrenchable|Toggleable_Foreground|674B1B|FFA70F|6|98716|None
+7863|Candle Wall Sconce Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7864|Luxurious Wall Clock|1|0|Foreground_Block|603913|A67C52|3|31|None
+7865|Luxurious Wall Clock Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7866|Topiary Hedge|1|0|Foreground_Block|603913|A67C52|3|31|None
+7867|Topiary Hedge Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7868|Statue Pillar|1|0|Foreground_Block|603913|A67C52|3|31|None
+7869|Statue Pillar Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7870|Sandstone Fireplace|46|Wrenchable|Toggleable_Foreground|674B1B|FFA70F|6|98716|None
+7871|Sandstone Fireplace Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7872|Garden Trellis Tunnel|4|0|Platform|83531F|F6C289|3|184|None
+7873|Garden Trellis Tunnel Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7874|Hibiscus|1|0|Foreground_Block|603913|A67C52|3|31|None
+7875|Hibiscus Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7876|Lavender|1|0|Foreground_Block|603913|A67C52|3|31|None
+7877|Lavender Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7878|Garden Planter|1|0|Foreground_Block|603913|A67C52|3|31|None
+7879|Garden Planter Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7880|Armillary Sundial|1|0|Foreground_Block|603913|A67C52|3|31|None
+7881|Armillary Sundial Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7882|Baroque Fountain|56|0|Trampoline_Block|4BA7FF|FFE433|3|177296|None
+7883|Baroque Fountain Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7884|Greenhouse|1|0|Background_Block|1C150C|4B3717|3|31|None
+7885|Greenhouse Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7886|Garden Bird House|1|0|Foreground_Block|603913|A67C52|3|31|None
+7887|Garden Bird House Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7888|Garden Bench|1|0|Foreground_Block|603913|A67C52|3|31|None
+7889|Garden Bench Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7890|Garden Shears|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7891|Garden Shears Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7892|Country Tweed Waistcoat & Tie|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7893|Country Tweed Waistcoat & Tie Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7894|Country Tweed Open Jacket|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Chest
+7895|Country Tweed Open Jacket Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7896|Country Tweed Trousers|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Pants
+7897|Country Tweed Trousers Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7898|Country Tweed Flat Cap|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7899|Country Tweed Flat Cap Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7900|Country Tweed Jacket & Yellow Tie|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7901|Country Tweed Jacket & Yellow Tie Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7902|Country Riding Breeches|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Pants
+7903|Country Riding Breeches Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7904|Country Riding Hat|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7905|Country Riding Hat Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7906|Guild Show Horse|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7907|Guild Show Horse Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7908|Guild Noble's Carriage|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7909|Guild Noble's Carriage Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7910|Eagle Spirit|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+7911|Eagle Spirit Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7912|War Hammers of Darkness|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7913|War Hammers of Darkness Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7914|Condor Wings|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+7915|Condor Wings Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7916|Airplane Wings|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+7917|Airplane Wings Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7918|Sturdy Crackfire Fighter|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7919|Sturdy Crackfire Fighter Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7920|Cardboard Sky Starter|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7921|Cardboard Sky Starter Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7922|Aviator Scarf|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Chest
+7923|Aviator Scarf Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7924|Aviator Jacket|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Chest
+7925|Aviator Jacket Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7926|Aviator Glasses|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Face
+7927|Aviator Glasses Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7928|Aviator Fighter Pilot Hat|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7929|Aviator Fighter Pilot Hat Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7930|Air Force Flight Suit|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7931|Air Force Flight Suit Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7932|Growmoji Shamrock|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+7933|Growmoji Shamrock Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7934|Spring Flinger Frog Mask|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7935|Spring Flinger Frog Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7936|Ultra Spring Flinger Frog Mask|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+7937|Ultra Spring Flinger Frog Mask Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7938|Paintball Power Popper|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7939|Paintball Power Popper Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7940|Flaming Boxing Gloves|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7941|Flaming Boxing Gloves Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7942|Up, Up, and Away Block|1|0|Foreground_Block|603913|A67C52|3|31|None
+7943|Up, Up, and Away Block Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7944|Spring Flinger Frog Suit|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7945|Spring Flinger Frog Suit Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7946|Ultra Spring Flinger Frog Suit|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7947|Ultra Spring Flinger Frog Suit Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7948|Forged Iron Skin|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Shirt
+7949|Forged Iron Skin Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7950|Ionic Pulse Cannon Tank|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7951|Ionic Pulse Cannon Tank Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7952|Slippery Flag Pole|1|0|Foreground_Block|603913|A67C52|3|31|None
+7953|Slippery Flag Pole Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7954|Spring Chest|999|NoSeed, Dropless|Consummable|A09E64|B47469|20|3600|None
+7955|Spring Chest Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7956|null_item7956|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+7957|null_item7956 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7958|null_item7958|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+7959|null_item7958 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7960|null_item7960|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+7961|null_item7960 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7962|null_item7962|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+7963|null_item7962 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+7964|Spring Event Player Medal: Bronze|999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|218ECD|C9731C|10|3600|None
+7965|Spring Event Player Medal: Bronze Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7966|Spring Event Player Medal: Silver|999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|218ECD|C9731C|10|3600|None
+7967|Spring Event Player Medal: Silver Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7968|Spring Event Player Medal: Gold|999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|218ECD|C9731C|10|3600|None
+7969|Spring Event Player Medal: Gold Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7970|Spring Event Guild Medal: Bronze|999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|218ECD|C9731C|10|3600|None
+7971|Spring Event Guild Medal: Bronze Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7972|Spring Event Guild Medal: Silver|999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|218ECD|C9731C|10|3600|None
+7973|Spring Event Guild Medal: Silver Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7974|Spring Event Guild Medal: Gold|999|NoSeed, Permanent, Dropless, AutoPickup, Untradable|Platform|218ECD|C9731C|10|3600|None
+7975|Spring Event Guild Medal: Gold Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7976|Kairos' Apollo|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7977|Kairos' Apollo Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7978|Celtic Cross|1|0|Foreground_Block|603913|A67C52|3|31|None
+7979|Celtic Cross Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7980|Minilith Stone|1|0|Foreground_Block|603913|A67C52|3|31|None
+7981|Minilith Stone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7982|Faerie Lanterns|1|0|Foreground_Block|603913|A67C52|3|31|None
+7983|Faerie Lanterns Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7984|Heather Bush|1|0|Foreground_Block|603913|A67C52|3|31|None
+7985|Heather Bush Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7986|Lucky Chair|1|0|Foreground_Block|603913|A67C52|3|31|None
+7987|Lucky Chair Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7988|Moss-Covered Stone|1|0|Foreground_Block|603913|A67C52|3|31|None
+7989|Moss-Covered Stone Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7990|Money Tree|1|0|Foreground_Block|603913|A67C52|3|31|None
+7991|Money Tree Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7992|Four-Leaf Clover Checkpoint|42|0|Checkpoint|C9D400|F2FF0F|7|75348|None
+7993|Four-Leaf Clover Checkpoint Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7994|Kelpie|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+7995|Kelpie Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7996|Bagpipes|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7997|Bagpipes Seed|999|NoSeed|Seed|000000|000000|20|0|None
+7998|Fairy|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+7999|Fairy Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8000|Lucky Broach|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Chest
+8001|Lucky Broach Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8002|Money Gun|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+8003|Money Gun Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8004|Rollback Plaque V|1|0|Foreground_Block|603913|A67C52|3|31|None
+8005|Rollback Plaque V Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8006|Hellfire Horns - Black|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+8007|Hellfire Horns - Black Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8008|Hellfire Horns - Blue|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+8009|Hellfire Horns - Blue Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8010|Hellfire Horns - Orange|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+8011|Hellfire Horns - Orange Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8012|Hellfire Horns - Ruby|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+8013|Hellfire Horns - Ruby Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8014|Spring Flinger Shoes|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+8015|Spring Flinger Shoes Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8016|Ultra Spring Flinger Shoes|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+8017|Ultra Spring Flinger Shoes Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8018|S.P.I.D.E.R. Legs|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Feet
+8019|S.P.I.D.E.R. Legs Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8020|Trickster|999|MultiFacing, Wrenchable, NoSeed, Dropless|Blaster|90A783|D6E3CF|10|3600|None
+8021|Trickster Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8022|Junk Cannon|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hand
+8023|Junk Cannon Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8024|Purple Aura|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+8025|Purple Aura Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8026|Green Aura|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+8027|Green Aura Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8028|Growmoji Grin|999|NoSeed, Dropless|Consummable|E3E3E3|F993F9|5|3600|None
+8029|Growmoji Grin Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8030|NekoRei's Fluffy Micio|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hair
+8031|NekoRei's Fluffy Micio Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8032|NekoRei's Fluffy Tail|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+8033|NekoRei's Fluffy Tail Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8034|WOTD Trophy 2019|999|Permanent, AutoPickup|Foreground_Block|FFB007|CDCE0B|10|3600|None
+8035|WOTD Trophy 2019 Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8036|null_item8036|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8037|null_item8036 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8038|null_item8038|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8039|null_item8038 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8040|null_item8040|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8041|null_item8040 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8042|null_item8042|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8043|null_item8042 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8044|null_item8044|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8045|null_item8044 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8046|null_item8046|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8047|null_item8046 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8048|null_item8048|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8049|null_item8048 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8050|null_item8050|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8051|null_item8050 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8052|null_item8052|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8053|null_item8052 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8054|null_item8054|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8055|null_item8054 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8056|null_item8056|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8057|null_item8056 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8058|null_item8058|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8059|null_item8058 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8060|null_item8060|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8061|null_item8060 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8062|null_item8062|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8063|null_item8062 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8064|null_item8064|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8065|null_item8064 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8066|null_item8066|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8067|null_item8066 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8068|null_item8068|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8069|null_item8068 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8070|null_item8070|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8071|null_item8070 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8072|null_item8072|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8073|null_item8072 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8074|null_item8074|1|NoSeed, Dropless, Beta, Mod|Foreground_Block|B5BF1E|73D968|0|31|None
+8075|null_item8074 Seed|1|NoSeed, Beta, Mod|Seed|000000|000000|20|0|None
+8076|Keenan GT's Awesome Item-O-Matic|999|MultiFacing, Wrenchable, NoSeed, Dropless|Faction|C1DFE3|FF8AEB|12|3600|None
+8077|Keenan GT's Awesome Item-O-Matic Seed|31|0|Seed|000000|000000|20|0|None
+8078|Keenan GT's Red Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8079|Keenan GT's Red Block Seed|31|0|Seed|000000|000000|20|0|None
+8080|Keenan GT's Green Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8081|Keenan GT's Green Block Seed|31|0|Seed|000000|000000|20|0|None
+8082|Keenan GT's Blue Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8083|Keenan GT's Blue Block Seed|31|0|Seed|000000|000000|20|0|None
+8084|Keenan GT's Yellow Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8085|Keenan GT's Yellow Block Seed|31|0|Seed|000000|000000|20|0|None
+8086|Keenan GT's Ruby Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8087|Keenan GT's Ruby Block Seed|31|0|Seed|000000|000000|20|0|None
+8088|VenomST's Awesome Item-O-Matic|999|MultiFacing, Wrenchable, NoSeed, Dropless|Faction|C1DFE3|FF8AEB|12|3600|None
+8089|VenomST's Awesome Item-O-Matic Seed|31|0|Seed|000000|000000|20|0|None
+8090|VenomST's Red Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8091|VenomST's Red Block Seed|31|0|Seed|000000|000000|20|0|None
+8092|VenomST's Green Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8093|VenomST's Green Block Seed|31|0|Seed|000000|000000|20|0|None
+8094|VenomST's Blue Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8095|VenomST's Blue Block Seed|31|0|Seed|000000|000000|20|0|None
+8096|VenomST's Yellow Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8097|VenomST's Yellow Block Seed|31|0|Seed|000000|000000|20|0|None
+8098|VenomST's Ruby Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8099|VenomST's Ruby Block Seed|31|0|Seed|000000|000000|20|0|None
+8100|LinkTrader GT's Awesome Item-O-Matic|999|MultiFacing, Wrenchable, NoSeed, Dropless|Faction|C1DFE3|FF8AEB|12|3600|None
+8101|LinkTrader GT's Awesome Item-O-Matic Seed|31|0|Seed|000000|000000|20|0|None
+8102|LinkTrader GT's Red Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8103|LinkTrader GT's Red Block Seed|31|0|Seed|000000|000000|20|0|None
+8104|LinkTrader GT's Green Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8105|LinkTrader GT's Green Block Seed|31|0|Seed|000000|000000|20|0|None
+8106|LinkTrader GT's Blue Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8107|LinkTrader GT's Blue Block Seed|31|0|Seed|000000|000000|20|0|None
+8108|LinkTrader GT's Yellow Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8109|LinkTrader GT's Yellow Block Seed|31|0|Seed|000000|000000|20|0|None
+8110|LinkTrader GT's Ruby Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8111|LinkTrader GT's Ruby Block Seed|31|0|Seed|000000|000000|20|0|None
+8112|Tery's Awesome Item-O-Matic|999|MultiFacing, Wrenchable, NoSeed, Dropless|Faction|C1DFE3|FF8AEB|12|3600|None
+8113|Tery's Awesome Item-O-Matic Seed|31|0|Seed|000000|000000|20|0|None
+8114|Tery's Red Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8115|Tery's Red Block Seed|31|0|Seed|000000|000000|20|0|None
+8116|Tery's Green Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8117|Tery's Green Block Seed|31|0|Seed|000000|000000|20|0|None
+8118|Tery's Blue Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8119|Tery's Blue Block Seed|31|0|Seed|000000|000000|20|0|None
+8120|Tery's Yellow Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8121|Tery's Yellow Block Seed|31|0|Seed|000000|000000|20|0|None
+8122|Tery's Ruby Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8123|Tery's Ruby Block Seed|31|0|Seed|000000|000000|20|0|None
+8124|evets_gt's Awesome Item-O-Matic|999|MultiFacing, Wrenchable, NoSeed, Dropless|Faction|C1DFE3|FF8AEB|12|3600|None
+8125|evets_gt's Awesome Item-O-Matic Seed|31|0|Seed|000000|000000|20|0|None
+8126|evets_gt's Red Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8127|evets_gt's Red Block Seed|31|0|Seed|000000|000000|20|0|None
+8128|evets_gt's Green Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8129|evets_gt's Green Block Seed|31|0|Seed|000000|000000|20|0|None
+8130|evets_gt's Blue Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8131|evets_gt's Blue Block Seed|31|0|Seed|000000|000000|20|0|None
+8132|evets_gt's Yellow Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8133|evets_gt's Yellow Block Seed|31|0|Seed|000000|000000|20|0|None
+8134|evets_gt's Ruby Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8135|evets_gt's Ruby Block Seed|31|0|Seed|000000|000000|20|0|None
+8136|BenBarrage's Awesome Item-O-Matic|999|MultiFacing, Wrenchable, NoSeed, Dropless|Faction|C1DFE3|FF8AEB|12|3600|None
+8137|BenBarrage's Awesome Item-O-Matic Seed|31|0|Seed|000000|000000|20|0|None
+8138|BenBarrage's Red Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8139|BenBarrage's Red Block Seed|31|0|Seed|000000|000000|20|0|None
+8140|BenBarrage's Green Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8141|BenBarrage's Green Block Seed|31|0|Seed|000000|000000|20|0|None
+8142|BenBarrage's Blue Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8143|BenBarrage's Blue Block Seed|31|0|Seed|000000|000000|20|0|None
+8144|BenBarrage's Yellow Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8145|BenBarrage's Yellow Block Seed|31|0|Seed|000000|000000|20|0|None
+8146|BenBarrage's Ruby Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8147|BenBarrage's Ruby Block Seed|31|0|Seed|000000|000000|20|0|None
+8148|MrSongo GT's Awesome Item-O-Matic|999|MultiFacing, Wrenchable, NoSeed, Dropless|Faction|C1DFE3|FF8AEB|12|3600|None
+8149|MrSongo GT's Awesome Item-O-Matic Seed|31|0|Seed|000000|000000|20|0|None
+8150|MrSongo GT's Red Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8151|MrSongo GT's Red Block Seed|31|0|Seed|000000|000000|20|0|None
+8152|MrSongo GT's Green Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8153|MrSongo GT's Green Block Seed|31|0|Seed|000000|000000|20|0|None
+8154|MrSongo GT's Blue Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8155|MrSongo GT's Blue Block Seed|31|0|Seed|000000|000000|20|0|None
+8156|MrSongo GT's Yellow Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8157|MrSongo GT's Yellow Block Seed|31|0|Seed|000000|000000|20|0|None
+8158|MrSongo GT's Ruby Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8159|MrSongo GT's Ruby Block Seed|31|0|Seed|000000|000000|20|0|None
+8160|OldGertie's Awesome Item-O-Matic|999|MultiFacing, Wrenchable, NoSeed, Dropless|Faction|C1DFE3|FF8AEB|12|3600|None
+8161|OldGertie's Awesome Item-O-Matic Seed|31|0|Seed|000000|000000|20|0|None
+8162|OldGertie's Red Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8163|OldGertie's Red Block Seed|31|0|Seed|000000|000000|20|0|None
+8164|OldGertie's Green Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8165|OldGertie's Green Block Seed|31|0|Seed|000000|000000|20|0|None
+8166|OldGertie's Blue Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8167|OldGertie's Blue Block Seed|31|0|Seed|000000|000000|20|0|None
+8168|OldGertie's Yellow Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8169|OldGertie's Yellow Block Seed|31|0|Seed|000000|000000|20|0|None
+8170|OldGertie's Ruby Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8171|OldGertie's Ruby Block Seed|31|0|Seed|000000|000000|20|0|None
+8172|macproof_gt's Awesome Item-O-Matic|999|MultiFacing, Wrenchable, NoSeed, Dropless|Faction|C1DFE3|FF8AEB|12|3600|None
+8173|macproof_gt's Awesome Item-O-Matic Seed|31|0|Seed|000000|000000|20|0|None
+8174|macproof_gt's Red Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8175|macproof_gt's Red Block Seed|31|0|Seed|000000|000000|20|0|None
+8176|macproof_gt's Green Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8177|macproof_gt's Green Block Seed|31|0|Seed|000000|000000|20|0|None
+8178|macproof_gt's Blue Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8179|macproof_gt's Blue Block Seed|31|0|Seed|000000|000000|20|0|None
+8180|macproof_gt's Yellow Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8181|macproof_gt's Yellow Block Seed|31|0|Seed|000000|000000|20|0|None
+8182|macproof_gt's Ruby Block|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8183|macproof_gt's Ruby Block Seed|31|0|Seed|000000|000000|20|0|None
+8184|Mah-Kah-Ron Hat|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hat
+8185|Mah-Kah-Ron Hat Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8186|30-Day Premium Subscription Token|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
+8187|30-Day Premium Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8188|365-Day Premium Subscription Token|999|NoSeed, Dropless|Consummable|2076A0|DD3CFF|5|3600|None
+8189|365-Day Premium Subscription Token Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8190|Holy Jeans|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Pants
+8191|Holy Jeans Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8192|Buddy's Block Head|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Hair
+8193|Buddy's Block Head Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8194|Glowy Cape|999|NoSeed, Dropless|Clothing|E08B4F|E8DED6|0|3600|Back
+8195|Glowy Cape Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8196|Building Blocks Machine|58|MultiFacing|Provider|EBEBEB|E42526|6|196852|None
+8197|Building Blocks Machine Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8198|Used Building Blocks Machine|1|0|Foreground_Block|603913|A67C52|3|31|None
+8199|Used Building Blocks Machine Seed|999|NoSeed|Seed|000000|000000|20|0|None
+8200|Creepy Baby Block|1|0|Foreground_Block|603913|A67C52|3|31|None
+8201|Creepy Baby Block Seed|42|0|Seed|000000|000000|20|0|None
+8202|Digital Dirt|1|0|Foreground_Block|603913|A67C52|3|31|None
+8203|Digital Dirt Seed|42|0|Seed|000000|000000|20|0|None
+8204|Granite Column|6|0|Foreground_Block|EDDA0F|F7EA61|8|396|None
+8205|Granite Column Seed|42|0|Seed|000000|000000|20|0|None
+8206|Clouds Wallpaper|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8207|Clouds Wallpaper Seed|42|0|Seed|000000|000000|20|0|None
+8208|Skull Wallpaper|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8209|Skull Wallpaper Seed|42|0|Seed|000000|000000|20|0|None
+8210|Dinosaur Wallpaper|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8211|Dinosaur Wallpaper Seed|42|0|Seed|000000|000000|20|0|None
+8212|Lava Falls|1|0|Pain_Block|FF2811|FFBB2A|4|31|None
+8213|Lava Falls Seed|42|0|Seed|000000|000000|20|0|None
+8214|Clouds Background|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8215|Clouds Background Seed|42|0|Seed|000000|000000|20|0|None
+8216|Dark Walnut Block|1|0|Foreground_Block|603913|A67C52|3|31|None
+8217|Dark Walnut Block Seed|42|0|Seed|000000|000000|20|0|None
+8218|Dark Walnut Wall|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8219|Dark Walnut Wall Seed|42|0|Seed|000000|000000|20|0|None
+8220|Dark Walnut Ladders|4|0|Platform|83531F|F6C289|3|184|None
+8221|Dark Walnut Ladders Seed|42|0|Seed|000000|000000|20|0|None
+8222|Rickety Ladders|4|0|Platform|83531F|F6C289|3|184|None
+8223|Rickety Ladders Seed|42|0|Seed|000000|000000|20|0|None
+8224|Growmoji Smile Block|1|0|Foreground_Block|603913|A67C52|3|31|None
+8225|Growmoji Smile Block Seed|42|0|Seed|000000|000000|20|0|None
+8226|Growmoji Wow Block|1|0|Foreground_Block|603913|A67C52|3|31|None
+8227|Growmoji Wow Block Seed|42|0|Seed|000000|000000|20|0|None
+8228|Dark Aqua Wallpaper|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8229|Dark Aqua Wallpaper Seed|42|0|Seed|000000|000000|20|0|None
+8230|Dark Yellow Wallpaper|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8231|Dark Yellow Wallpaper Seed|42|0|Seed|000000|000000|20|0|None
+8232|Dark Purple Wallpaper|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8233|Dark Purple Wallpaper Seed|42|0|Seed|000000|000000|20|0|None
+8234|Dark Orange Wallpaper|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8235|Dark Orange Wallpaper Seed|42|0|Seed|000000|000000|20|0|None
+8236|Dark Brown Wallpaper|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8237|Dark Brown Wallpaper Seed|42|0|Seed|000000|000000|20|0|None
+8238|Dark Grey Wallpaper|43|0|Background_Block|539F0C|65B11E|3|80797|None
+8239|Dark Grey Wallpaper Seed|42|0|Seed|000000|000000|20|0|None
+8240|Water Dispenser|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8241|Water Dispenser Seed|42|0|Seed|000000|000000|20|0|None
+8242|Waiting Room Chair|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8243|Waiting Room Chair Seed|42|0|Seed|000000|000000|20|0|None
+8244|Ceiling Fan|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8245|Ceiling Fan Seed|42|0|Seed|000000|000000|20|0|None
+8246|Starship Security Camera|999|MultiFacing, Wrenchable, Permanent, AutoPickup|Security_Camera|C0C0C0|2CC624|12|3600|None
+8247|Starship Security Camera Seed|42|0|Seed|000000|000000|20|0|None
+8248|Starship Mess Hall Table|4|0|Platform|83531F|F6C289|3|184|None
+8249|Starship Mess Hall Table Seed|42|0|Seed|000000|000000|20|0|None
+8250|Starship Mess Hall Stool|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8251|Starship Mess Hall Stool Seed|42|0|Seed|000000|000000|20|0|None
+8252|Sea Urchin|17|0|Spike|98E13F|82D024|4|5423|None
+8253|Sea Urchin Seed|42|0|Seed|000000|000000|20|0|None
+8254|Copper Block|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8255|Copper Block Seed|42|0|Seed|000000|000000|20|0|None
+8256|Sea Lantern|45|Wrenchable|Toggleable_Foreground|FFFFFF|808080|10|92475|None
+8257|Sea Lantern Seed|42|0|Seed|000000|000000|20|0|None
+8258|Bubble Block|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8259|Bubble Block Seed|42|0|Seed|000000|000000|20|0|None
+8260|Manhole Cover|2|Wrenchable|Door|9A6B38|FFD11D|5|68|None
+8261|Manhole Cover Seed|42|0|Seed|000000|000000|20|0|None
+8262|Dark Castle Stone|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8263|Dark Castle Stone Seed|999|0|Seed|000000|000000|20|0|None
+8264|Dark Castle Stone Background|1|0|Background_Block|1C150C|4B3717|3|31|None
+8265|Dark Castle Stone Background Seed|999|0|Seed|000000|000000|20|0|None
+8266|Dark Castle Door|2|Wrenchable|Door|9A6B38|FFD11D|5|68|None
+8267|Dark Castle Door Seed|999|0|Seed|000000|000000|20|0|None
+8268|Dark Castle Turret|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8269|Dark Castle Turret Seed|999|0|Seed|000000|000000|20|0|None
+8270|Red Stuff|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8271|Red Stuff Seed|31|0|Seed|000000|000000|20|0|None
+8272|White Stuff|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8273|White Stuff Seed|31|0|Seed|000000|000000|20|0|None
+8274|Black Stuff|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8275|Black Stuff Seed|31|0|Seed|000000|000000|20|0|None
+8276|Heavy Chains |1|0|Background_Block|1C150C|4B3717|3|31|None
+8277|Heavy Chains Seed|999|0|Seed|000000|000000|20|0|None
+8278|Doggy Block|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8279|Doggy Block Seed|999|0|Seed|000000|000000|20|0|None
+8280|Kitty Block|31|0|Foreground_Block|FF7B00|FFFF28|7|30721|None
+8281|Kitty Block Seed|999|0|Seed|000000|000000|20|0|None
+8282|Dumb Billboard|999|NoSeed, Dropless, Beta, Mod|Component|09AF7C|9AD048|1|3600|None
+8283|Dumb Billboard Seed|999|0|Seed|000000|000000|20|0|None
